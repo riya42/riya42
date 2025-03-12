@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🚀 Data enthusiast turning numbers into stories!<br>🐍 Python, ML, and a little too much coffee.<br>📊 Finding patterns, making predictions, loving data.<br>📚 Always learning, always curious, always analyzing!</p>
+<p align="left">🚀 Data enthusiast turning numbers into stories!<br>🐍 Python, ML, and a passion for problem-solving.<br>📊 Finding patterns, making predictions, loving data.<br>📚 Always learning, always curious, always analyzing!</p>
 
 ###
 
@@ -45,9 +45,14 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/riyagupta21/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/riiyaaa.12/#" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
+  </a>
+  <a href="riya.217904@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
 </div>
 
 ###
